@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Зеркальный кубик рубика",
+        "desc": "MoYu Mirror blocks",
+        "img": "https://images.by.prom.st/106903640_w640_h640_golovolomka-zerkalnyj-kubik.jpg",
+        "price": "500 ₽"
+    },
+    {
+        "name": "Твисти Скьюб",
+        "desc": "QiYi MoFangGe Twisty Skewb",
+        "img": "https://играй-нн.рф/d/2twisty-3.jpg",
+        "price": "784 ₽"
+    },
+    {
+        "name": "Фишер Куб 3х3х3",
+        "desc": "CCC Ghost Fisher Cube 3x3x3",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/f95/640_640_1/f959ccb92f677f3b7c8b0631424e7d53.jpg?fv=00007",
+        "price": "1 773 ₽"
+    },
+    {
+        "name": "Кубик Рубика 1 на 3 на 3",
+        "desc": "LanLan 1x3x3",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/e9c/640_640_1/e9cd273ca1febd84ba31221656d9b2ef.jpg?fv=00007",
+        "price": "210 ₽"
+    },
+    {
+        "name": "Ледяная башня",
+        "desc": "CCC Ледяная башня 3x3x3",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/185/640_640_1/5b5flsd8bbb6e9b0f0jsf7k5eao0i9i3.jpg?fv=00007",
+        "price": "1 620 ₽"
+    },
+    {
+        "name": "Шестерной сиамский куб",
+        "desc": "Cubetwist",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/8f8/640_640_1/8f845b2bc71a235249d9ec449a046077.jpg?fv=00007",
+        "price": "2 540 ₽"
+    }
+]

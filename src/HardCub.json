@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Пентакл Куб",
+        "desc": "QiYi MoFangGe Pentacle Cube",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/a41/640_640_1/a41fed3470d0dcf03b6137cc443157a3.jpg?fv=00007",
+        "price": "1 300 ₽"
+    },
+    {
+        "name": "Кубик Рубика 19x19x19",
+        "desc": "Shengshou 19x19x19",
+        "img": "https://cccstore.ru/upload/iblock/a9f/a9f19218e104efbc5db5056e028819ad.jpg",
+        "price": "69 000 ₽"
+    },
+    {
+        "name": "Тераминкс",
+        "desc": "ShengShou Teraminx",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/f58/640_640_1/f58c54ac9cf3f311372418972b440300.jpg?fv=00007",
+        "price": "7 200 ₽"
+    },
+    {
+        "name": "Кубик Рубика 3 на 3 на 9",
+        "desc": "WitEden 3x3x9 II",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/d0f/640_640_1/d0ff30a61204a8acc52c7be8d3ae0120.jpg?fv=00007",
+        "price": "2 080 ₽"
+    },
+    {
+        "name": "Пирамидка 4x4x4",
+        "desc": "QiYi MoFangGe 4x4x4 Pyramid",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/7dc/640_640_1/7dc9c96783d9cd66321ec0b3ce3f4e9d.jpg?fv=00007",
+        "price": "1 160 ₽"
+    },
+    {
+        "name": "ЛимКуб 3х3х3",
+        "desc": "FangShi LimCube 3x3x3 Dreidel",
+        "img": "https://cccstore.ru/upload/resize_cache/iblock/a0c/640_640_1/a0c915dfb8e8062515a57096a0a83ea9.jpg?fv=00007",
+        "price": "2 800 ₽"
+    }
+]
